@@ -18,7 +18,7 @@ int main() {
         cin >> resp;
         if (resp) {		
             switch (resp) {
-                case 1: cout << "Viva Messi\n";
+                case 1: cout << "Ha elegido la opción 1\n";
                 break;
                     
                 case 2: cout << "Ha elegido la opción 2\n";
