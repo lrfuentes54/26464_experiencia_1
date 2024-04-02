@@ -24,7 +24,7 @@ int main() {
                 case 2: cout << "Ha elegido la opción 2\n";
                 break;
                 
-                case 3:cout << "Ha elegido la opción 3\n";
+                case 3:cout << "messi\n";
                 break;
 
                 default: cout << "Ha elegido una opción que no es valida\n";
