@@ -8,7 +8,6 @@ using namespace std;
 int main() {
 	int resp;
     do {
-        system("clear");
         cout << "\n\n\tMENU PRINCIPAL:\n\n";
         cout << "\t\t1) Opción 1\n";
         cout << "\t\t2) Opción 2\n";
@@ -36,9 +35,3 @@ int main() {
     } while (resp);
     cout << endl;
 }
-
-/*
-    MONDONGO :D
-
-    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOXDHEtxHAFwzOLR098xzZgmN8RUuVNi8jy6wxhLCGQ&s
-*/

@@ -36,9 +36,3 @@ int main() {
     } while (resp);
     cout << endl;
 }
-
-/*
-    MONDONGO :D
-
-    https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOXDHEtxHAFwzOLR098xzZgmN8RUuVNi8jy6wxhLCGQ&s
-*/
