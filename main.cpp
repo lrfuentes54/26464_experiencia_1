@@ -10,7 +10,7 @@ int main() {
     do {
         system("clear");
         cout << "\n\n\tMENU PRINCIPAL:\n\n";
-        cout << "\t\t1) Opción 1\n";
+        cout << "\t\t1) HOLAAA 1\n";
         cout << "\t\t2) Opción 2\n";
         cout << "\t\t3) Opción 3\n";
         cout << "\t\t0) Salir\n\n";
