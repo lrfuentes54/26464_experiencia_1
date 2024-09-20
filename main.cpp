@@ -9,7 +9,7 @@ int main() {
 	int resp;
     do {
         system("clear");
-        cout << "\n\n\tMENU PRINCIPAL:\n\n";
+        cout << "\n\n\tMENU PRINCIPALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL:\n\n";
         cout << "\t\t1) Opción 1\n";
         cout << "\t\t2) Opción 2\n";
         cout << "\t\t3) Opción 3\n";
